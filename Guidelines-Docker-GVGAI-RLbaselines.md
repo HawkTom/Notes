@@ -1,4 +1,4 @@
-## Docker: GVGAI + rl_baseline
+## Guidelines-Docker-GVGAI-RLbaselines.md
 
 ### CPU version
 
@@ -116,6 +116,13 @@ CMD /bin/bash
 ```
 
 
+
+### Reference
+
+1. [G. Brockman, V. Cheung, L. Pettersson, J. Schneider, J. Schulman, J. Tang, and W. Zaremba, “Openai gym,” 2016.](https://github.com/openai/gym)
+2. [A. Hill, A. Raffin, M. Ernestus, A. Gleave, A. Kanervisto, R. Traore, P. Dhariwal, C. Hesse, O. Klimov, A. Nichol, M. Plappert, A. Radford, J. Schulman, S. Sidor, and Y. Wu, “Stable baselines,” https://github.com/hill-a/stable-baselines, 2018.](https://github.com/hill-a/stable-baselines)
+3. [R. R. Torrado, P. Bontrager, J. Togelius, J. Liu, and D. Perez-Liebana, “Deep reinforcement learning for general video game ai,” in Computational Intelligence and Games (CIG), 2018 IEEE Conference on. IEEE,
+   2018.](https://github.com/rubenrtorrado/GVGAI_GYM)
 
 
 
